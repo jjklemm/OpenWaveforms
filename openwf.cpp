@@ -2,7 +2,8 @@
  * openwf.cpp
  * 
  * main file for OpenWaveforms, an application for visualization of radar altimetry waveforms
- * 
+ *
+ *
  */
 
 #include <gtkmm.h>
