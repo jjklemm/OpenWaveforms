@@ -1,0 +1,13 @@
+numpy
+rautils
+glob
+os
+sys
+re
+h5py
+bokeh
+matplotlib
+pandas
+xarray
+geoviews
+
